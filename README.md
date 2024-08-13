@@ -1,5 +1,3 @@
----
-
 # ArtifyAI
 
 ArtifyAI is an AI-driven web application that integrates various AI models such as ChatGPT, Gemini, and image generation tools. This project offers users a seamless experience by providing an intuitive and visually appealing user interface, allowing them to explore multiple AI tools after a simple authentication process. All user login data is securely stored in MongoDB.
